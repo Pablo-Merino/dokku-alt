@@ -35,4 +35,3 @@ echo "Open now web browser pointing to http://$(hostname):2000/ to finish config
 echo "For manual installation instructions press Ctrl-C and visit https://github.com/dokku-alt/dokku-alt."
 echo
 
-ruby /usr/local/share/dokku-alt/contrib/dokku-installer.rb
