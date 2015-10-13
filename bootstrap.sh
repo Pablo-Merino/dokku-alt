@@ -29,9 +29,3 @@ if [ `lsb_release -sr` != "14.04" ]; then
 	echo "WARNING: dokku-alt works best on Ubuntu 14.04 LTS!"
 fi
 
-echo
-echo "Almost done!"
-echo "Open now web browser pointing to http://$(hostname):2000/ to finish configuartion."
-echo "For manual installation instructions press Ctrl-C and visit https://github.com/dokku-alt/dokku-alt."
-echo
-
